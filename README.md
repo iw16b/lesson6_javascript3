@@ -13,8 +13,7 @@ Web Application Development
 (I learned about looping images in a photo gallery)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://iw16b.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
 1. (I learned about creating figure and img nodes. )
